@@ -1,0 +1,11 @@
+Django
+psycopg2-binary
+django-rest-passwordreset
+django-email-verification
+validators
+deprecation
+pyyaml
+ujson
+celery
+pytest
+pytest-django
